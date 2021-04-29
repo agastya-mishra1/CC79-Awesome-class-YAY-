@@ -1,0 +1,122 @@
+body{
+margin: 0px;
+text-align: center;  
+background-color: black;  
+}
+
+.menu{ position: fixed; width: 100%; margin-top: 10px; top: 0px; cursor: grabbing; z-index: 9999; background-color:orange;}
+.links{ display: inline; padding-left: 33px; padding-right: 25px; font-family: fantasy; font-size: 50px }
+.links:hover{
+    background-color:cyan;}
+    #img1{
+    height: 600px;
+    width:1300px;    
+    }
+#Food{
+background-color:black;   
+}
+#Teetle{
+font-size:110px;
+color: chartreuse;
+}
+#button1{
+font-size:40px;
+font-weight:bold;
+height: 100px;
+width:300px;   
+}
+.di{
+color: white;    
+}
+#pp{
+color: white;    
+}
+.s{
+margin:20px;    
+}
+#Pepper{
+height: 400px;
+width:400px;    
+}
+#Veg{
+    height: 350px;
+    width:350px;    
+}
+ #Chicken{
+ height: 350px;
+ width:350px;    
+}
+#Cheese{
+height: 350px;
+width:350px;    
+   }
+ #CW{
+height: 350px;
+width:350px;    
+background-color: black;
+}
+ #Fish{
+height: 350px;
+ width:350px;    
+ }
+ #Seetle{
+    font-size:110px;
+    color: chartreuse;
+}
+.f{
+    color: white;    
+}
+#Coke{
+ height: 380px;
+ width:300px;    
+}
+#Pep{
+height: 330px;
+ width:300px;    
+}
+#Fan{
+height: 300px;
+width:300px;    
+}
+#Nest{
+height: 300px;
+width:300px;    
+}
+
+ #Spr{
+height: 280px;
+width:300px;    
+}
+.n{
+margin:20px;    
+}
+#Beetle{
+font-size:110px;
+color: chartreuse;
+}
+.y{
+color: white;    
+}
+.k{
+margin:20px;    
+}
+#Brown{
+height: 300px;
+width:300px;    
+}
+#van{
+height: 300px;
+width:300px;    
+}
+#Choc{
+height: 300px;
+width:300px;    
+}
+#Ban{
+height: 300px;
+width:300px;    
+}
+#Cup{
+height: 300px;
+width:300px;    
+ }
